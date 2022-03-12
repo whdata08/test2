@@ -1,3 +1,4 @@
+#git测试
 import json
 from transformers import BertModel,BertConfig,BertTokenizer
 import torch
